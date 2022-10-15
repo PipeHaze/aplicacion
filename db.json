@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "felipe",
+      "apellido": "morgado",
+      "usuario": "bvst4rd0"
+    },
+    {
+      "id": 2,
+      "nombre": "diego",
+      "apellido": "rivarola",
+      "usuario": "goku"
+    },
+    {
+      "id": 3,
+      "nombre": "rene",
+      "apellido": "puente",
+      "usuario": "primate"
+    }
+  ],
+  "autos": [
+    {
+      "patente": "FF-HH-22",
+      "id_usuario": 1,
+      "marca": "Audi"
+    },
+    {
+      "patente": "GG-11-RR",
+      "id_usuario": 1,
+      "marca": "BMW"
+    }
+  ]
+}

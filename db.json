@@ -4,19 +4,22 @@
       "id": 1,
       "nombre": "felipe",
       "apellido": "morgado",
-      "usuario": "bvst4rd0"
+      "usuario": "bvst4rd0",
+      "contraseña": "Feli1234A"
     },
     {
       "id": 2,
       "nombre": "diego",
       "apellido": "rivarola",
-      "usuario": "goku"
+      "usuario": "goku",
+      "contraseña": "Goku7gol"
     },
     {
       "id": 3,
       "nombre": "rene",
       "apellido": "puente",
-      "usuario": "primate"
+      "usuario": "primate",
+      "contraseña": "2Shipitia"
     }
   ],
   "autos": [

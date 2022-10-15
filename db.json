@@ -5,21 +5,21 @@
       "nombre": "felipe",
       "apellido": "morgado",
       "usuario": "bvst4rd0",
-      "contraseña": "Feli1234A"
+      "password": "Feli1234A"
     },
     {
       "id": 2,
       "nombre": "diego",
       "apellido": "rivarola",
       "usuario": "goku",
-      "contraseña": "Goku7gol"
+      "password": "Goku7gol"
     },
     {
       "id": 3,
       "nombre": "rene",
       "apellido": "puente",
       "usuario": "primate",
-      "contraseña": "2Shipitia"
+      "password": "2Shipitia"
     }
   ],
   "autos": [

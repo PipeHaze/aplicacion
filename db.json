@@ -32,6 +32,16 @@
       "id": 5,
       "patente": "GG-11-RR",     
       "marca": "BMW"
+    },
+    {
+      "id": 6,
+      "patente": "LD-EA-01",     
+      "marca": "Mercedes"
+    },
+    {
+      "id": 7,
+      "patente": "VV-VV-16",     
+      "marca": "Nissan"
     }
   ]
 }
